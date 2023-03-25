@@ -1,0 +1,9 @@
+.card-body-stars {
+	margin: 20px;
+	padding: 0;
+	list-style: none;
+}
+
+li {
+	float: left;
+}
